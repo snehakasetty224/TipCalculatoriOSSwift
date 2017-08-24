@@ -2,4 +2,4 @@
 
 Implemented the Tip Calculator With Default Tip Settings Page.
 
-![Video Walkthrough](tip_calculator.gif)
+![Video Walkthrough](TipCalculator.gif)
